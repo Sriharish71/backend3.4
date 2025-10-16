@@ -7,7 +7,7 @@ npm install
 
 git repo link:
 
-https://github.com/Sriharish71/backend3.4.git
+[https://github.com/Sriharish71/backend3.4.git](https://github.com/Sriharish71/backend3.4.git)
 
 Create .env file:
 
